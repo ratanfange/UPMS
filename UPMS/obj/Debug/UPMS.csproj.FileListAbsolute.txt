@@ -1,0 +1,17 @@
+E:\REPOS\Management\UPMS\UPMS\UPMS\obj\Debug\UPMS.csprojAssemblyReference.cache
+E:\REPOS\Management\UPMS\UPMS\UPMS\obj\Debug\UPMS.FrmLogin.resources
+E:\REPOS\Management\UPMS\UPMS\UPMS\obj\Debug\UPMS.Properties.Resources.resources
+E:\REPOS\Management\UPMS\UPMS\UPMS\obj\Debug\UPMS.csproj.GenerateResource.cache
+E:\REPOS\Management\UPMS\UPMS\UPMS\bin\Debug\UPMS.exe.config
+E:\REPOS\Management\UPMS\UPMS\UPMS\bin\Debug\UPMS.exe
+E:\REPOS\Management\UPMS\UPMS\UPMS\bin\Debug\UPMS.pdb
+E:\REPOS\Management\UPMS\UPMS\UPMS\obj\Debug\UPMS.FrmMain.resources
+E:\REPOS\Management\UPMS\UPMS\UPMS\obj\Debug\UPMS.exe
+E:\REPOS\Management\UPMS\UPMS\UPMS\obj\Debug\UPMS.pdb
+E:\REPOS\Management\UPMS\UPMS\UPMS\obj\Debug\UPMS.FrmMenuInfo.resources
+E:\REPOS\Management\UPMS\UPMS\UPMS\obj\Debug\UPMS.FrmMenuList.resources
+E:\REPOS\Management\UPMS\UPMS\UPMS\obj\Debug\UPMS.FrmRight.resources
+E:\REPOS\Management\UPMS\UPMS\UPMS\obj\Debug\UPMS.FrmRoleInfo.resources
+E:\REPOS\Management\UPMS\UPMS\UPMS\obj\Debug\UPMS.FrmRoleList.resources
+E:\REPOS\Management\UPMS\UPMS\UPMS\obj\Debug\UPMS.FrmUserInfo.resources
+E:\REPOS\Management\UPMS\UPMS\UPMS\obj\Debug\UPMS.FrmUserList.resources
