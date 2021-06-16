@@ -97,3 +97,4 @@ CREATE TABLE [dbo].[UserRoleInfos](
 GO
 ALTER TABLE [dbo].[RoleInfos] ADD  DEFAULT ((0)) FOR [IsAdmin]
 GO
+
